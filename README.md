@@ -3,7 +3,7 @@
 ## Introduction
 The Geotrail Planning Tool is a prototype designed for creating new geotrails in areas without existing infrastructure. This tool utilises a least cost path algorithm, incorporating weights determined by the Analytic Hierarchy Process (AHP), to generate optimal paths based on established trail best practices. The criteria used for planning are designed to ensure accessibility, safety, environmental preservation, and an enhanced visitor experience.
 
-## Geotrail Criteria
+## Geotrail Trail Criteria
 - **Slope**: Utilises gradual slopes with a maximum sustained grade of 15-20% and avoids construction on steeper slopes above 45 degrees to ensure lower maintenance costs and accessibility.
 - **Contour Alignment**: Follows terrain contours to facilitate easy walking, ensuring smooth trail flow and proper water drainage.
 - **Landforms**: Prefers ridgelines and higher, flatter landforms for lower construction costs and better scenic views, while avoiding valleys and pits.
