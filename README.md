@@ -27,7 +27,7 @@ The Geotrail Planning Tool is a prototype designed for creating new geotrails in
 An ArcGIS Pro project has been provided, allowing you to explore and run the prototype with the included dataset based on a case study in Western Tasmania, Australia. Open the ArcGIS Pro project from the zip Geotrail_Planner.aprx and run the "Create Geotrail" geoprocessing tool in the Geotrail_Planner toolbox.
 
 #### Python Script
-A Python script that can be run as a Python toolbox is also available, and you will need to use the dataset in the zipped project as a sample. Use the Python scripts provided (AHP_criteria_weights and Geotrail_Tool_25M.py) to run the "Create Geotrail" geoprocessing tool.
+A Python script that can be run as a Python toolbox is also available, and you will need to use the dataset in the zipped project as a sample. Use the Python scripts provided (AHP_criteria_weights.py and Geotrail_Tool_25M.pyt) to run the "Create Geotrail" geoprocessing tool.
 
 If you would like to use your own dataset, you will need to prepare a standardised (1-9) dataset (recommended values in Williams et al., 2024) for each criterion. 
 
@@ -40,6 +40,8 @@ If you would like to use your own dataset, you will need to prepare a standardis
 6. **Finalise Path**: Save and export the finalised geotrail path for implementation.
 
 ## Additional Information
+
+Note: the project will work without change if the project is extracted to C:\Geotrail_Tool\, otherwise modify INPATH variable in python script.
 
 Created on Tue June 19, 2024
 
