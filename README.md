@@ -29,7 +29,7 @@ An ArcGIS Pro project has been provided, allowing you to explore and run the pro
 #### Python Script
 A Python script that can be run as a Python toolbox is also available, and you will need to use the dataset in the zipped project as a sample. Use the Python scripts provided (AHP_criteria_weights.py and Geotrail_Tool_25M.pyt) to run the "Create Geotrail" geoprocessing tool.
 
-If you would like to use your own dataset, you will need to prepare a standardised (1-9) dataset (recommended values in Williams et al., 2024) for each criterion. 
+If you would like to use your own dataset, you will need to prepare a standardised (1-9) dataset for each criterion. 
 
 ### Steps
 1. **Set Parameters**: Define the parameters based on the criteria mentioned above, with weights determined by AHP.
@@ -45,12 +45,6 @@ Note: the project will work without change if the project is extracted to C:\Geo
 
 Created on Tue June 19, 2024
 
-**Author**: Mark Williams  
-**Affiliation**: University of Tasmania  
-**Email**: [mark.williams@utas.edu.au](mailto:mark.williams@utas.edu.au)
-
 Geotrail Least Cost Path Tool  
 Python toolbox created using ArcGIS Pro 3.2.2  
 Supplementary code associated with publication:
-
-Williams, M.A., Rolls, S., McHenry, M.T. (2024). *Optimising Geotrail Planning by Leveraging Least-Cost Path for Sustainable Geotourism Development: A Case Study on a Tasmanian West Coast Post-Mining Landscape (under review).*
