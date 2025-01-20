@@ -41,6 +41,8 @@ If you would like to use your own dataset, you will need to prepare a standardis
 
 ## Additional Information
 
+Williams, M.A., Rolls, S. & McHenry, M.T. Optimising geotrail planning by leveraging least-cost path for sustainable geotourism development: a case study on a Tasmanian west coast post-mining landscape. Inf Technol Tourism (2025). https://doi.org/10.1007/s40558-024-00308-w
+
 Note: the project will work without change if the project is extracted to C:\Geotrail_Tool\, otherwise modify INPATH variable in python script.
 
 Created on Tue June 19, 2024
